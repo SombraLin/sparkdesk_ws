@@ -28,9 +28,9 @@ type Client struct {
 
 var (
 	hostUrl   = "ws://spark-api.xf-yun.com/v3.1/chat"
-	appid     = "2f610f14"
-	apiSecret = "MTQwYzk4OTExMjNmZGJhZjViOWI3ZjE2"
-	apiKey    = "9794ede43eeab8b5d31b19cbeed86f60"
+	appid     = ""
+	apiSecret = ""
+	apiKey    = ""
 
 )
 
